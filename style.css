@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+ 
+main {
+   background-color: rgb(196, 191, 191);
+}
+ p header {
+  background-color: ;
+ }
+  header {
+
+    background-color: rgb(131, 119, 119) ;
+  }
+   a { 
+  color:rgb(63, 64, 80);
+   }
+    nav {
+     background-color: silver;
+    }
+     footer {
+      background-color: rgb(83, 128, 128);
+     }
+     {
+      color: knaki;
+     }
+
+      a {
+        background-color: rgb(255, 255, 255);
+      }
+
+       footer p {
+        background-color: rgb(180, 180, 180);\
+        text-agalin: center;
+      }
